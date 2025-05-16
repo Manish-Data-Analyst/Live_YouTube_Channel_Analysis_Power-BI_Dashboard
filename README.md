@@ -4,7 +4,7 @@ I’m excited to share a live dashboard I recently built using Power BI, and usi
 🔍 What It Does:
 This dashboard provides real-time insights into any YouTube channel, including:
 <br>
-📌 Channel Insights
+**📌 Channel Insights**
 <br>
 Channel Name
 <br>
@@ -17,7 +17,7 @@ Description
 Direct Channel Link
 <br>
 
-🎬 Video Insights
+**🎬 Video Insights**
 <br>
 Video Thumbnails & Titles
 <br>
@@ -25,7 +25,7 @@ Descriptions
 <br>
 Like, Comment, Share, and View Counts
 <br>
-Note: The video data is only of the latest 20 uploaded on that channel. We can increase this number as per our requirement
+**Note:** The video data is only of the latest 20 uploaded on that channel. We can increase this number as per our requirement
 <br>
 💡 Bonus: I even integrated a functional Subscribe button directly within the dashboard for an interactive experience!
 <br>
@@ -34,3 +34,9 @@ Note: The video data is only of the latest 20 uploaded on that channel. We can i
 This dashboard is a great tool for content creators, marketers, or analysts who want to monitor performance, compare competitors, or just gain deeper visibility into YouTube metrics.
 <br>
 💬 Would love to hear your thoughts! Feel free to connect if you're interested in data storytelling, dashboard design, or API integrations.
+
+<br>
+
+**Dashboard Image**
+
+<img src="https://github.com/Manish-Data-Analyst/Blinkit-Sales-Report-Excel-Dashboard/blob/4bedc947d417da3ab8bd804dc1ed68cf2c78282e/Blinkit%20Dashboard.jpg" alt="Image Discription" width="600">
