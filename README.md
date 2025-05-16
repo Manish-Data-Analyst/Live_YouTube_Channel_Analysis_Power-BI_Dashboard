@@ -40,5 +40,9 @@ This dashboard is a great tool for content creators, marketers, or analysts who 
 **Dashboard Image**
 
 <img src="https://github.com/Manish-Data-Analyst/Live_YouTube_Channel_Analysis_Power-BI_Dashboard/blob/adc4c82a718c1ca60223ae122f90b095f82c3fe0/Live%20YouTube%20Overview.jpg" alt="Image Discription" width="600">
-<br> **YouTube Overview
-**
+<br>
+<img src="https://github.com/Manish-Data-Analyst/Live_YouTube_Channel_Analysis_Power-BI_Dashboard/blob/e264063021cf53cfc5f01fab8a9e5558fa52842b/Live%20YouTube%20Channel%20Analysis.jpg" alt="Image Discription" width="600">
+<br>
+<img src="https://github.com/Manish-Data-Analyst/Live_YouTube_Channel_Analysis_Power-BI_Dashboard/blob/e264063021cf53cfc5f01fab8a9e5558fa52842b/Live%20YouTube%20Channel%20vs%20Channel.jpg" alt="Image Discription" width="600">
+
+
